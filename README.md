@@ -10,6 +10,15 @@
   <img src="https://profile-counter.glitch.me/KhayrulloDev/count.svg" />
 </p>
 
+📫 How to reach me: 
+* Email khayrullo.devs@gmail.com
+* Phone +998(94) 863-66-65
+
+
+## 🌐 Socials:
+
+[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://Khayrullo_dev.t.me/)
+
 ## 📊 GitHub Stats
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=KhayrulloDev&show_icons=true&theme=radical)](https://github.com/KhayrulloDev)
 
