@@ -3,6 +3,13 @@
 ## About Me
 **Backend Developer** with some experience in [`Python`](http://python.org), [`Django`](https://djangoproject.com/), [`Django Rest Framework`](https://www.django-rest-framework.org/), [`FastAPI`](https://fastapi.tiangolo.com/), [`Postman`], [`Insomniya`], [`Jira`](https://www.atlassian.com/software/jira), [`Selenium`](https://selenium-python.readthedocs.io/) and [`python-telegram-bot`](https://python-telegram-bot.org/).
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=KhayrulloDev&label=Profile%20views&color=0e75b6&style=flat" alt="abekdev" /> </p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/KhayrulloDev/count.svg" />
+</p>
+
 ## 📊 GitHub Stats
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=KhayrulloDev&show_icons=true&theme=radical)](https://github.com/KhayrulloDev)
 
