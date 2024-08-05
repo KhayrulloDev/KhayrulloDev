@@ -1,6 +1,8 @@
 # 👋 Hello, I'm KhayrulloDev!
 
-## About Me
+## About Me  
+                      My main projects are private and I haven't used GitHub for a long time now I'm using Bitbucket
+
 **Backend Developer** with some experience in [`Python`](http://python.org), [`Django`](https://djangoproject.com/), [`Django Rest Framework`](https://www.django-rest-framework.org/), [`FastAPI`](https://fastapi.tiangolo.com/), [`Postman`], [`Insomniya`], [`Jira`](https://www.atlassian.com/software/jira), [`Selenium`](https://selenium-python.readthedocs.io/) and [`python-telegram-bot`](https://python-telegram-bot.org/).
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=KhayrulloDev&label=Profile%20views&color=0e75b6&style=flat" alt="abekdev" /> </p>
