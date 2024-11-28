@@ -1,7 +1,7 @@
 # 👋 Hello, I'm KhayrulloDev!
 
 ## About Me  
-                      My main projects are private and I haven't used GitHub for a long time now I'm using Bitbucket
+          My main projects are private and I haven't used GitHub for a long time now I'm using Bitbucket
 
 **Backend Developer** with some experience in [`Python`](http://python.org), [`Data Science`](https://en.wikipedia.org/wiki/Data_science), [`Golang`](https://golang.org/), [`Linux`](https://www.linux.org/), [`Django`](https://djangoproject.com/), [`FastAPI`](https://fastapi.tiangolo.com/), [`Django REST Framework`](https://www.django-rest-framework.org/), [`Redis`](https://redis.io/), [`PostgreSQL`](https://www.postgresql.org/), [`Docker`](https://www.docker.com/), [`Docker Compose`](https://docs.docker.com/compose/), [`NumPy`](https://numpy.org/), [`Pandas`](https://pandas.pydata.org/), [`Selenium`](https://selenium-python.readthedocs.io/), [`Postman`](https://www.postman.com/), [`Insomnia`](https://insomnia.rest/), [`Jira`](https://www.atlassian.com/software/jira), [`Git`](https://git-scm.com/), [`CI/CD`](https://en.wikipedia.org/wiki/CI/CD), [`Fiber`](https://gofiber.io/), [`Firebase`](https://firebase.google.com/), [`DigitalOcean`](https://www.digitalocean.com/)
 .
